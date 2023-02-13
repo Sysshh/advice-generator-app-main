@@ -51,5 +51,5 @@ Users should be able to:
 
 ## Author
 
--- Frontend Mentor - [@ValarieOyieke](https://www.frontendmentor.io/profile/ValarieOyieke)
+- Frontend Mentor - [@ValarieOyieke](https://www.frontendmentor.io/profile/ValarieOyieke)
 - Twitter - [@valoyieke](https://www.twitter.com/valoyieke)
